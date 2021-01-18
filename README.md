@@ -1,22 +1,17 @@
 # About
 
-### Hi There ! It's Me [Ajay Bhojania </AB/> ](http://ajay-bhojani.github.io)
+### Hi There ! It's Me [Ajay Bhojani </AB/> ](http://ajay-bhojani.github.io)
 
 -  **Profession :** Automobile Engineer 👷
 -  **Learning :** Rom Development and Graphic Designing :fire:
 -  **Hobbies :** Eat and Sleep , 3M = Memes,Music&Movies :headphones:
 -  **Fact :** Happy To Help Always :hand: 
 
-
-
-
-
-
 <a href="https://t.me/ajay_bhojani">
   <img align="left" alt="Ajay Bhojani" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v1/icons/telegram.svg" />
 </a>
-<a href="https://www.instagram.com/ajay_bhojani_007/">
-  <img align="left" alt="Ajay Bhojani" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v1/icons/instagram.svg" />
+<a href="https://www.twitter.com/ajey_bhojani/">
+  <img align="left" alt="Ajay Bhojani" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v1/icons/twitter.svg" />
 </a>
 
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ajay-bhojani/&title=Profile%20Views)
