@@ -1,24 +1,29 @@
 # About
 
-### Hi There ! It's Me [Ajay Bhojani </AB/> ](http://ajay-bhojani.github.io)
+### Hi There ! It's Me [Ajay Bhojani AB](http://ajay-bhojani.github.io)
 
--  **Profession :** Automobile Engineer 👷
--  **Learning :** Rom Development and Graphic Designing :fire:
--  **Hobbies :** Eat and Sleep , 3M = Memes,Music&Movies :headphones:
--  **Fact :** Happy To Help Always :hand: 
-
-<a href="https://t.me/ajay_bhojani">
-  <img align="left" alt="Ajay Bhojani" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v1/icons/telegram.svg" />
-</a>
-<a href="https://www.twitter.com/ajey_bhojani/">
-  <img align="left" alt="Ajay Bhojani" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v1/icons/twitter.svg" />
-</a>
-
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ajay-bhojani/&title=Profile%20Views)
-
+-  **Profession :** Automobile engineer 👷
+-  **Learning :** Flat / 2D graphic designing :fire:
+-  **Slogan :** Happy to help always :hand: 
+-  **Views :** ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ajay-bhojani/&title=Profile%20Views)
+### Contact me :
+[![Telegram](https://img.shields.io/badge/-AjayBhojaniAB-blue?style=flat-square&logo=telegram&logoColor=white&link=https://www.telegram.dog/AjayBhojaniAB)](https://www.telegram.dog/AjayBhojaniAB)
+[![Twitter](https://img.shields.io/badge/-AjayBhojaniAB-white?style=flat-square&logo=twitter&logoColor=blue&link=https://www.twitter.com/AjayBhojaniAB)](https://www.twitter/AjayBhojaniAB)
+[![Linkedin](https://img.shields.io/badge/-AjayBhojaniAB-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/AjayBhojaniAB)](https://www.linkedin.com/in/AjayBhojaniAB)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-![Github Stats](https://github-readme-stats.vercel.app/api?username=ajay-bhojani&show_icons=true&title_color=3DDB84&icon_color=FF0000&count_private=true&include_all_commits=true&show_icons=true&theme=dark)
 
+<details><summary><b>Graph & Trophy</b></summary>
+
+### Contribution Graph
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=ajay-bhojani&custom_title=Contribution+Graph&theme=xcode)
+
+### Trophy
+![Trophy](https://github-profile-trophy.vercel.app/?username=ajay-bhojani&theme=darkhub)
+
+### GitHub Stats :
+![Github Stats](https://github-readme-stats.vercel.app/api?username=ajay-bhojani&show_icons=true&title_color=4195FF&icon_color=7EB7FF&count_private=true&include_all_commits=true&show_icons=true&theme=dark)
+
+### Top used languages :
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajay-bhojani&layout=compact&theme=dark)
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  </details>
