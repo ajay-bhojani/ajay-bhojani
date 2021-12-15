@@ -2,10 +2,13 @@
 
 ### Hi There ! It's Me [Ajay Bhojani AB](http://ajay-bhojani.github.io)
 
--  **Profession :** Automobile engineer 👷
--  **Learning :** Flat / 2D graphic designing :fire:
--  **Slogan :** Happy to help always :hand: 
--  **Views :** ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ajay-bhojani/&title=Profile%20Views)
+- 🔥 Freelancer
+- 🚀 Contributor
+- 👨‍💻 TechnoHolic
+- ✍️ 2D Graphic Designer
+- 🚗 Automobile Engineer
+- 🤝 Happy To Help As Always
+- ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ajay-bhojani/&title=Profile%20Views)
 ### Contact me :
 [![Telegram](https://img.shields.io/badge/-AjayBhojaniAB-blue?style=flat-square&logo=telegram&logoColor=white&link=https://www.telegram.dog/AjayBhojaniAB)](https://www.telegram.dog/AjayBhojaniAB)
 [![Twitter](https://img.shields.io/badge/-AjayBhojaniAB-white?style=flat-square&logo=twitter&logoColor=blue&link=https://www.twitter.com/AjayBhojaniAB)](https://www.twitter/AjayBhojaniAB)
