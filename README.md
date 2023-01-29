@@ -15,10 +15,7 @@
 [![Linkedin](https://img.shields.io/badge/-AjayBhojaniAB-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/AjayBhojaniAB)](https://www.linkedin.com/in/AjayBhojaniAB)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<details><summary><b>Graph & Trophy</b></summary>
-
-### Contribution Graph
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=ajay-bhojani&custom_title=Contribution+Graph&theme=xcode)
+<details><summary><b>Stats & Trophy</b></summary>
 
 ### Trophy
 ![Trophy](https://github-profile-trophy.vercel.app/?username=ajay-bhojani&theme=darkhub)
